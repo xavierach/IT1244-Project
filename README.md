@@ -1,8 +1,8 @@
 # IT1244-Project
 Project for NUS IT1244 by Team 7 - 
-Vienna Fiorella Anong
-Padua Mikhail Anthony Gagni
-Ang Chin How, Xavier
+Vienna Fiorella Anong;
+Padua Mikhail Anthony Gagni;
+Ang Chin How, Xavier;
 Lee Zhen Hao
 
 # How to run the project:
